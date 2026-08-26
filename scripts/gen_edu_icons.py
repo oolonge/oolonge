@@ -11,7 +11,7 @@ import base64
 import re
 
 VISIBLE = 20.0  # rendered logo height in px, matches height="30" in the README
-LIFT = 3.5      # px the logo must move up to sit on the text centre
+LIFT = 4.0      # px the logo must move up to sit on the text centre
 PAD = 2 * LIFT / VISIBLE  # transparent share added below the artwork
 
 
