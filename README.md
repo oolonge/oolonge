@@ -20,9 +20,9 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 </td>
 <td valign="top">
 
-<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="16" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
+<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="16" align="middle" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
 
-<code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="16" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
+<code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="16" align="middle" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 <th align="left" width="30%">Stack</th>
 </tr>
 <tr>
-<td valign="top"><a href="https://github.com/oolonge/hackathon-backend-bmstu-tbank-2026">tbank-hackathon</a>&nbsp;&nbsp;<a href="https://zp-vilka.ru"><img src="assets/zp-vilka.svg" height="33" align="middle" alt="zp-vilka.ru"></a></td>
+<td valign="top"><a href="https://zp-vilka.ru"><img src="assets/zp-vilka.svg" height="36" align="middle" alt="zp-vilka.ru"></a>&nbsp;&nbsp;<a href="https://github.com/oolonge/hackathon-backend-bmstu-tbank-2026">tbank-hackathon</a></td>
 <td valign="top">Hackathon-winning salary range prediction from a structured CV, team lead</td>
 <td valign="top"><img src="https://img.shields.io/badge/Python-4C566A?style=flat" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-5E81AC?style=flat" alt="FastAPI"> <img src="https://img.shields.io/badge/CatBoost-5E81AC?style=flat" alt="CatBoost"></td>
 </tr>
