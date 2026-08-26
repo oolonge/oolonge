@@ -7,22 +7,22 @@
 
 <table width="100%">
 <tr>
-<th align="left" width="50%">Education</th>
 <th align="left" width="50%">About</th>
+<th align="left" width="50%">Education</th>
 </tr>
 <tr>
-<td valign="top">
-
-<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="16" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
-
-<code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="16" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
-
-</td>
 <td valign="top">
 
 Software engineer and ML enthusiast, pianist and tennis player.
 
 Looking for ways to apply my skills in adjacent fields like biology and make the world a better place.
+
+</td>
+<td valign="top">
+
+<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="16" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
+
+<code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="16" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
 
 </td>
 </tr>
@@ -61,8 +61,8 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 <td valign="middle" align="center" width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oolonge&layout=compact&hide_border=true&bg_color=00000000&title_color=81A1C1&text_color=D8DEE9&langs_count=6&card_width=340">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oolonge&layout=compact&hide_border=true&bg_color=00000000&title_color=4C566A&text_color=4C566A&langs_count=6&card_width=340" alt="Most used languages" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/top-langs-dark.svg">
+  <img src="assets/top-langs-light.svg" alt="Most used languages" width="340">
 </picture>
 
 </td>
