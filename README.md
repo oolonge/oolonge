@@ -31,32 +31,26 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-
-<h3>Stack</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-4C566A?style=flat" alt="C++">
-  <img src="https://img.shields.io/badge/C-4C566A?style=flat" alt="C">
-  <img src="https://img.shields.io/badge/Python-4C566A?style=flat" alt="Python">
-  <img src="https://img.shields.io/badge/R-4C566A?style=flat" alt="R">
-  <img src="https://img.shields.io/badge/Assembly-4C566A?style=flat" alt="Assembly">
-  <img src="https://img.shields.io/badge/Qt-5E81AC?style=flat" alt="Qt">
-  <img src="https://img.shields.io/badge/CMake-5E81AC?style=flat" alt="CMake">
-  <img src="https://img.shields.io/badge/Docker-5E81AC?style=flat" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-5E81AC?style=flat" alt="Git">
-  <img src="https://img.shields.io/badge/CI%2FCD-5E81AC?style=flat" alt="CI/CD">
-  <img src="https://img.shields.io/badge/PostgreSQL-6B7A8F?style=flat" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Linux-6B7A8F?style=flat" alt="Linux">
-</p>
-
-<h3>Socials</h3>
-
-<p>
-  <a href="https://t.me/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=telegram&logoColor=D8DEE9" alt="Telegram"></a>
-  <a href="https://instagram.com/oolonge21"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=instagram&logoColor=D8DEE9" alt="Instagram"></a>
-  <a href="https://steamcommunity.com/id/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=steam&logoColor=D8DEE9" alt="Steam"></a>
-</p>
-
+<b>Stack</b>
+<br><br>
+<img src="https://img.shields.io/badge/C%2B%2B-4C566A?style=flat" alt="C++">
+<img src="https://img.shields.io/badge/C-4C566A?style=flat" alt="C">
+<img src="https://img.shields.io/badge/Python-4C566A?style=flat" alt="Python">
+<img src="https://img.shields.io/badge/R-4C566A?style=flat" alt="R">
+<img src="https://img.shields.io/badge/Assembly-4C566A?style=flat" alt="Assembly">
+<img src="https://img.shields.io/badge/Qt-5E81AC?style=flat" alt="Qt">
+<img src="https://img.shields.io/badge/CMake-5E81AC?style=flat" alt="CMake">
+<img src="https://img.shields.io/badge/Docker-5E81AC?style=flat" alt="Docker">
+<img src="https://img.shields.io/badge/Git-5E81AC?style=flat" alt="Git">
+<img src="https://img.shields.io/badge/CI%2FCD-5E81AC?style=flat" alt="CI/CD">
+<img src="https://img.shields.io/badge/PostgreSQL-6B7A8F?style=flat" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Linux-6B7A8F?style=flat" alt="Linux">
+<br><br>
+<b>Socials</b>
+<br><br>
+<a href="https://t.me/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=telegram&logoColor=D8DEE9" alt="Telegram"></a>
+<a href="https://instagram.com/oolonge21"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=instagram&logoColor=D8DEE9" alt="Instagram"></a>
+<a href="https://steamcommunity.com/id/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=steam&logoColor=D8DEE9" alt="Steam"></a>
 </td>
 <td valign="middle" align="center" width="50%">
 

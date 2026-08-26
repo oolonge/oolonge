@@ -54,7 +54,7 @@ def collect():
 def render(langs, theme):
     total = sum(size for _, size in langs)
     rows = (len(langs) + 1) // 2
-    height = 74 + rows * 24
+    height = 44 + rows * 22
     bar_w = WIDTH - 32
 
     parts = [
@@ -66,16 +66,16 @@ def render(langs, theme):
         '.l{font:400 12px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:'
         + theme["text"] + '}'
         '</style>',
-        '<text x="16" y="26" class="t">Most Used Languages</text>',
-        f'<rect x="16" y="40" width="{bar_w}" height="8" rx="4" fill="{theme["track"]}"/>',
-        f'<clipPath id="bar"><rect x="16" y="40" width="{bar_w}" height="8" rx="4"/></clipPath>',
+        '<text x="16" y="18" class="t">Most Used Languages</text>',
+        f'<rect x="16" y="30" width="{bar_w}" height="8" rx="4" fill="{theme["track"]}"/>',
+        f'<clipPath id="bar"><rect x="16" y="30" width="{bar_w}" height="8" rx="4"/></clipPath>',
         '<g clip-path="url(#bar)">',
     ]
 
     offset = 16.0
     for name, size in langs:
         seg = bar_w * size / total
-        parts.append(f'<rect x="{offset:.2f}" y="40" width="{seg:.2f}" height="8" '
+        parts.append(f'<rect x="{offset:.2f}" y="30" width="{seg:.2f}" height="8" '
                      f'fill="{COLORS.get(name, FALLBACK)}"/>')
         offset += seg
     parts.append('</g>')
@@ -83,7 +83,7 @@ def render(langs, theme):
     for i, (name, size) in enumerate(langs):
         col, row = i % 2, i // 2
         x = 16 + col * (bar_w / 2 + 8)
-        y = 74 + row * 24
+        y = 62 + row * 22
         pct = 100.0 * size / total
         parts.append(f'<circle cx="{x + 5:.1f}" cy="{y - 4:.1f}" r="5" '
                      f'fill="{COLORS.get(name, FALLBACK)}"/>')
