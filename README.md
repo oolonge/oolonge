@@ -20,9 +20,9 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 </td>
 <td valign="top">
 
-<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="16" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
+<h3><code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7.png" height="24" align="middle" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU</h3>
 
-<code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="16" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
+<h3><code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-dark.svg"><img src="assets/cu-light.svg" height="24" align="middle" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University</h3>
 
 </td>
 </tr>
@@ -31,8 +31,7 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-<b>Stack</b>
-<br><br>
+<h3>Stack</h3>
 <img src="https://img.shields.io/badge/C%2B%2B-4C566A?style=flat" alt="C++">
 <img src="https://img.shields.io/badge/C-4C566A?style=flat" alt="C">
 <img src="https://img.shields.io/badge/Python-4C566A?style=flat" alt="Python">
@@ -45,9 +44,7 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 <img src="https://img.shields.io/badge/CI%2FCD-5E81AC?style=flat" alt="CI/CD">
 <img src="https://img.shields.io/badge/PostgreSQL-6B7A8F?style=flat" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Linux-6B7A8F?style=flat" alt="Linux">
-<br><br>
-<b>Socials</b>
-<br><br>
+<h3>Socials</h3>
 <a href="https://t.me/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=telegram&logoColor=D8DEE9" alt="Telegram"></a>
 <a href="https://instagram.com/oolonge21"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=instagram&logoColor=D8DEE9" alt="Instagram"></a>
 <a href="https://steamcommunity.com/id/oolonge"><img src="https://img.shields.io/badge/-4C566A?style=flat&logo=steam&logoColor=D8DEE9" alt="Steam"></a>
