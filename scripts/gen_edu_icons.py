@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """Wrap the university logos in SVG with a transparent bottom pad.
 
-With align="middle" a browser puts the image centre 4.15px above the baseline,
-while the optical centre of a 16px line sits ~5.8px above it. Padding the bottom
-of the icon by twice that difference (~20.6% of its height) lifts the artwork by
-exactly the missing amount, so the logo lines up with the text.
+With align="middle" the browser puts the image centre half an x-height above the
+baseline, which sits lower than the optical centre of the line. Padding the bottom
+of the icon lifts the artwork by half the pad, so LIFT below is the measured gap
+on GitHub: raise it if the logo still sits low, lower it if it now rides high.
 """
 
 import base64
 import re
 
-PAD = 0.206  # share of the artwork height added below it
+VISIBLE = 20.0  # rendered logo height in px, matches height="30" in the README
+LIFT = 4.9      # px the logo must move up to sit on the text centre
+PAD = 2 * LIFT / VISIBLE  # transparent share added below the artwork
 
 
 def wrap(body, view, colour_note=""):
