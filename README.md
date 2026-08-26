@@ -20,7 +20,7 @@ Looking for ways to apply my skills in adjacent fields like biology and make the
 </td>
 <td valign="top">
 
-<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7-pad.svg" height="28" align="middle" alt="BMSTU IU7"></a>&nbsp;&nbsp;Informatics and Computer Science, BMSTU
+<code>BSc</code>&nbsp;&nbsp;<a href="https://iu7.bmstu.ru/"><img src="assets/bmstu-iu7-pad.svg" height="28" align="middle" alt="BMSTU IU7"></a>&nbsp;&nbsp;Software Engineering, BMSTU
 
 <code>MSc</code>&nbsp;&nbsp;<a href="https://cu.ru/master/science-school/biotech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cu-pad-dark.svg"><img src="assets/cu-pad-light.svg" height="28" align="middle" alt="Central University"></picture></a>&nbsp;&nbsp;Biotech &amp; ML, Central University
 
